@@ -1,0 +1,1 @@
+RootDim (formerly SuperDim) for rooted Android devices lets you dim the screen below what the normal system settings allow.  The code is in the public domain.
